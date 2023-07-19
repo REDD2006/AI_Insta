@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AI_Insta</string>
+    <string name="register">Register</string>
+    <string name="log_in">Log In</string>
+</resources>
